@@ -37,7 +37,6 @@ The dataset includes co-located LiDAR and mmWave data captured from 55 receiver 
 
 - `/mmwave_data/`: Received Signal Strength (RSS) data across AoA/AoD directions  
 - `/lidar_data/`: Angularly-binned LiDAR intensity values  
-- `/scripts/`: Processing and visualization code (MATLAB or Python)
 
 ## License
 
